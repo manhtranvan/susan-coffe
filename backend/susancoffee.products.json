@@ -1,0 +1,188 @@
+[{
+  "_id": {
+    "$oid": "65f472c962b2d667aaa8ce28"
+  },
+  "name": "Coffee Capuccino",
+  "price": 300,
+  "quantity": 10,
+  "description": "A small river named Duden flows by their place and supplies",
+  "image": "menu-1.jpg",
+  "category": "65f4700a0dea43f70db2df0e",
+  "productType": 1,
+  "viewed": 100,
+  "status": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f473ef6ab05cc3db664661"
+  },
+  "name": "Coffee Capuccino 2",
+  "price": 300,
+  "quantity": 10,
+  "description": "A small river named Duden flows by their place and supplies",
+  "image": "menu-2.jpg",
+  "category": "65f4700a0dea43f70db2df0e",
+  "productType": 2,
+  "viewed": 100,
+  "status": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f48049b1caa3a544d44c3c"
+  },
+  "name": "Coffee Capuccino 3",
+  "price": 100,
+  "quantity": 10,
+  "description": "A small river named Duden flows by their place and supplies",
+  "image": "menu-3.jpg",
+  "category": "65f4700a0dea43f70db2df0e",
+  "productType": 2,
+  "viewed": 100,
+  "status": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f48050b1caa3a544d44c3e"
+  },
+  "name": "Coffee Capuccino 4",
+  "price": 100,
+  "quantity": 10,
+  "description": "A small river named Duden flows by their place and supplies",
+  "image": "menu-4.jpg",
+  "category": "65f4700a0dea43f70db2df0e",
+  "productType": 2,
+  "viewed": 100,
+  "status": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f48057b1caa3a544d44c40"
+  },
+  "name": "Grilled Beef",
+  "price": 100,
+  "quantity": 10,
+  "description": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia.",
+  "image": "dish-1.jpg",
+  "category": "65f4701c0dea43f70db2df12",
+  "productType": 2,
+  "viewed": 100,
+  "status": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f4805db1caa3a544d44c42"
+  },
+  "name": "Grilled Beef 2",
+  "price": 300,
+  "quantity": 10,
+  "description": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia.",
+  "image": "dish-2.jpg",
+  "category": "65f4701c0dea43f70db2df12",
+  "productType": 2,
+  "viewed": 80,
+  "status": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66179f12be7c956f321596b2"
+  },
+  "name": "Grilled Beef 3",
+  "price": 300,
+  "description": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia.",
+  "image": "dish-3.jpg",
+  "category": "65f4701c0dea43f70db2df12",
+  "productType": 2,
+  "viewed": 10,
+  "status": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66179f25be7c956f321596b4"
+  },
+  "name": "Lemonade Juice",
+  "price": 300,
+  "description": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia",
+  "image": "drink-1.jpg",
+  "category": "665854e64109daf4a8eeda4b",
+  "productType": 2,
+  "viewed": 10,
+  "status": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66179f31be7c956f321596b6"
+  },
+  "name": "PINEAPPLE JUICE",
+  "price": 300,
+  "description": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia",
+  "image": "drink-2.jpg",
+  "category": "665854e64109daf4a8eeda4b",
+  "productType": 2,
+  "viewed": 100,
+  "status": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6617a06ad8044ca6cea30b41"
+  },
+  "name": "SODA DRINKS",
+  "price": 300,
+  "description": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia",
+  "image": "drink-3.jpg",
+  "category": "665854e64109daf4a8eeda4b",
+  "productType": 2,
+  "viewed": 100,
+  "status": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664ac64c9066f0fc4df22e4a"
+  },
+  "name": "LEMONADE JUICE",
+  "price": 300,
+  "description": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia",
+  "image": "drink-4.jpg",
+  "category": "665854e64109daf4a8eeda4b",
+  "productType": 2,
+  "viewed": 100,
+  "status": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664ac767be9e4cb5bad4cd02"
+  },
+  "name": "HOT CAKE HONEY",
+  "price": 300,
+  "description": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia.",
+  "image": "dessert-1.jpg",
+  "category": "66960c79450654019cc60bf5",
+  "productType": 2,
+  "viewed": 100,
+  "status": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664f1c73b6613ca72a038c8f"
+  },
+  "name": "HOT CAKE HONEY 2",
+  "price": 300,
+  "description": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia.",
+  "image": "dessert-2.jpg",
+  "category": "66960c79450654019cc60bf5",
+  "productType": 0,
+  "viewed": 0,
+  "status": true,
+  "__v": 0
+}]

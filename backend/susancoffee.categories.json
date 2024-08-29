@@ -1,0 +1,32 @@
+[{
+  "_id": {
+    "$oid": "65f4700a0dea43f70db2df0e"
+  },
+  "name": "Coffee",
+  "description": "Coffee description",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f4701c0dea43f70db2df12"
+  },
+  "name": "Main Dish",
+  "description": "Main Dish description",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665854e64109daf4a8eeda4b"
+  },
+  "name": "Drinks",
+  "description": "Drinks description",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66960c79450654019cc60bf5"
+  },
+  "name": "Desserts",
+  "description": "Desserts description",
+  "__v": 0
+}]

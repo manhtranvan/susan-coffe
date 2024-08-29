@@ -1,0 +1,120 @@
+[{
+  "_id": {
+    "$oid": "663343debd94b60266fbc6b7"
+  },
+  "name": "hnpsolution",
+  "image": "no name",
+  "fullname": "Nguyen le Phuong",
+  "email": "hnpsolution@gmail.com",
+  "password": "123456",
+  "admin": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663868dcbd94b60266fbc74e"
+  },
+  "name": "lephuong",
+  "image": "no name",
+  "fullname": "Nguyen Le Phuong",
+  "email": "lephuong@gmail.com",
+  "password": "123456",
+  "admin": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6638690bbd94b60266fbc750"
+  },
+  "name": "nguyenvana",
+  "image": "no name",
+  "fullname": "Nguyen Van A",
+  "email": "nguyenvana@gmail.com",
+  "password": "123456",
+  "admin": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6639d7f2e12be012f3cbd8c7"
+  },
+  "name": "lephuong1979",
+  "image": "no name",
+  "fullname": "Nguyen Le Phuong",
+  "email": "lephuong1979@gmail.com",
+  "password": "123456",
+  "admin": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66500f1ad8914b3f7a73451d"
+  },
+  "name": "phuongngyuyen",
+  "image": "no name",
+  "fullname": "Nguyen Le Phuong",
+  "email": "phuongnguyen@gmail.com",
+  "password": "123456",
+  "admin": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66503292d8914b3f7a734520"
+  },
+  "name": "phuongnl21",
+  "image": "no name",
+  "fullname": "Nguyen Le Phuong",
+  "email": "lephuong1979@gmail.com",
+  "password": "123456",
+  "admin": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665036aed8914b3f7a734523"
+  },
+  "name": "PhuongNguyen",
+  "image": "no name",
+  "fullname": "Phuong Nguyen",
+  "email": "phuongNguyen@fpt.com",
+  "password": "111111",
+  "admin": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665678d394376ab3dec8a486"
+  },
+  "name": "phuongnguyen01",
+  "image": "no name",
+  "fullname": "Nguyen Le Phuong",
+  "email": "phuongnguyen01@gmail.com",
+  "password": "111111",
+  "admin": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669364c940c9e5a4dc36a6c3"
+  },
+  "name": "Phuong",
+  "image": "no name",
+  "fullname": "Nguyen Le",
+  "email": "phuongnl21@fpt.edu.vn",
+  "password": "123456",
+  "admin": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66977e5310a3c155dd434be4"
+  },
+  "name": "NguyenVanB",
+  "image": "no name",
+  "fullname": "Nguyen Van B",
+  "email": "nguyenvanb@gmail.com",
+  "password": "123456",
+  "admin": false,
+  "__v": 0
+}]
